@@ -102,7 +102,7 @@ Retail-Sales-SQL-Project/
 
 ![Customer Lifetime Value](outputs/customer_lifetime_value.png)
 
-### Month-over-Month Growth
+### Month-over-Month Difference
 
 ![Month-over-Month Difference](outputs/month_over_month_difference.png)
 
