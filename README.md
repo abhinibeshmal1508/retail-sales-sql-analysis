@@ -132,4 +132,4 @@ Retail-Sales-SQL-Project/
 
 **Abhinibesh Mal**
 
-Data Analyst skilled in SQL, Excel, Python, Power BI, and Data Analytics.
+Abhinibesh Mal | Data Analyst | LinkedIn: [linkedin.com/in/abhinibeshmal1508](https://www.linkedin.com/in/abhinibeshmal/)
