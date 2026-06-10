@@ -132,4 +132,4 @@ Retail-Sales-SQL-Project/
 
 **Abhinibesh Mal**
 
-Abhinibesh Mal | Data Analyst | LinkedIn: [linkedin.com/in/abhinibeshmal1508](https://www.linkedin.com/in/abhinibeshmal/)
+Abhinibesh Mal | Data Analyst | LinkedIn: [linkedin.com/in/abhinibeshmal](https://www.linkedin.com/in/abhinibeshmal/)
