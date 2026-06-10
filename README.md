@@ -104,7 +104,7 @@ Retail-Sales-SQL-Project/
 
 ### Month-over-Month Growth
 
-![Month-over-Month Growth](outputs/month_over_month_growth.png)
+![Month-over-Month Difference](outputs/month_over_month_difference.png)
 
 ### Top Customer per Category
 
